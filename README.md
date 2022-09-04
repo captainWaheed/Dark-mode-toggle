@@ -10,7 +10,12 @@ A repo with a basic JavaScript and CSS to turn a simple website/ Static page int
 
 ## Live Demo
 
-- https://captainwaheed.github.io/
+<div align="center" >
+<img src="Preview-1.png" width="500px"/>
+<img src="Preview-2.png" width="500px"/>
+</div>
+
+- https://captainwaheed.github.io/Dark-mode-toggle/
 
 ### Prerequisites
 
